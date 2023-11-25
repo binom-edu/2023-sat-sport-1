@@ -1,4 +1,9 @@
 # Спортивное программирование
+## Занятие 8
++ практика
+### Домашка
++ https://informatics.msk.ru/mod/statements/view.php?id=280
++ https://informatics.msk.ru/mod/statements/view.php?id=11145#1
 ## Занятие 7
 + цикл for
 ### Домашка
