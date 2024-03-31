@@ -2,7 +2,7 @@
 ## 31 марта
 + задачи на арифметику
 ### Домашка
-+ https://informatics.msk.ru/mod/statements/view.php?id=7308, задачи H, J
++ https://informatics.msk.ru/mod/statements/view.php?id=7308, задачи H..J
 ## Занятие 18
 + задачи на разработку функций. Дорешивание
 
